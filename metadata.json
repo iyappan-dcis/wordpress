@@ -1,0 +1,17 @@
+{
+  "name": "iyappan-wordpress",
+  "version": "0.1.0",
+  "author": "do",
+  "summary": "Downloads and installs wordpress",
+  "license": "Apache-2.0",
+  "source": "https://github.com/iyappan-dcis/wordpress",
+  "project_page": "https://github.com/iyappan-dcis/wordpress",
+  "issues_url": "https://github.com/iyappan-dcis/wordpress/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
