@@ -10,8 +10,8 @@ class { 'wordpress': }
 
 Hiera:
 
-wordpress::conf::db_name: 'db_name' 
-wordpress::conf::db_user: 'db_user' 
-wordpress::conf::db_user_password: 'db_password' 
-wordpress::conf::db_host: 'localhost' 
+wordpress::conf::db_name: 'db_name' <br>
+wordpress::conf::db_user: 'db_user' <br>
+wordpress::conf::db_user_password: 'db_password' <br>
+wordpress::conf::db_host: 'localhost' <br>
 wordpress::wp::wpinstalldir: 'Path where the wordpress should be installed' 
