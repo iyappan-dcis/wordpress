@@ -1,7 +1,7 @@
 {
   "name": "iyappan-wordpress",
   "version": "0.1.3",
-  "author": "do",
+  "author": "iyappan",
   "summary": "Downloads and installs wordpress",
   "license": "Apache-2.0",
   "source": "https://github.com/iyappan-dcis/wordpress",
